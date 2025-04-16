@@ -1,0 +1,42 @@
+*{
+padding: 0%;
+margin: 0%;
+}
+body{
+    background-color:white;
+}
+.logoBox img{
+    width: 50%;
+    padding: 20px 0px;
+}
+.topManue{
+    display: flex;
+    justify-content: end;
+    margin-top: 40px;
+}
+header{
+    height: 100px;
+    background-color:rgb(236, 226, 226);
+    margin: 20px;
+}
+.nav-link{
+    color: black;
+    
+}
+.banner img{
+    height: 500px;
+    object-fit: cover;
+}
+.carousel-caption{
+    position: absolute;
+    top: 40%;
+}
+
+
+
+
+.box1{
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+}
