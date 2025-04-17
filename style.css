@@ -31,12 +31,25 @@ header{
     position: absolute;
     top: 40%;
 }
-
-
-
-
-.box1{
-    height: 500px;
-    border: 1px solid black;
-    position: relative;
+.services-inner-box{
+position: relative;
+}
+.ser-icon {
+    width: 30%;
+}
+.services{
+    padding: 100px 0px;
+}
+.services-number{
+    position: absolute;
+    top: 2px;
+    right: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(156, 156, 156);
+}
+.services-heading{
+    font-weight:600px ;
+    color: rgb(31, 194, 194);
+    font-size: 30px;
 }
