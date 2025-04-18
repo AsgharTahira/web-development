@@ -53,3 +53,60 @@ position: relative;
     color: rgb(31, 194, 194);
     font-size: 30px;
 }
+
+.boxOne{
+    background-color: yellow;
+
+}
+.socil-icons{
+    display: flex;
+
+}
+/* team section */
+.container-card{
+    background-color:rgb(92, 4, 4);
+    padding: 30px 30px;
+}
+
+
+.pcture-box-1{
+border: 1px solid red;
+height: 250px;
+
+}
+.pcture-box-1 img{
+    height: 250px;
+
+}
+.information-box{
+    border: 1px solid blue;
+    padding: 20px 0px;
+    background-color: orange;
+}
+.name-box{
+    color: black;
+    font-size: 20px;
+    padding-top:20px ;
+}
+.post-box{
+    color: black;
+    font-size: 10px;
+    padding-top: 20px;
+}
+.pcture-box-3{
+    height: 250px;
+    border: 1px solid red;
+}
+.pcture-box-3 img{
+    height: 250px;   
+}
+.pcture-box-2{
+    border: 1px solid blueviolet;
+    height: 250px;
+}
+.pcture-box-2 img{
+    height: 250px;
+} .pcture-box-4{
+    height: 250px;
+    border: 1px solid brown;
+}
