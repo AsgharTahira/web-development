@@ -135,6 +135,11 @@ height: 250px;
     object-fit: cover;
 }
 .vidio-content{
-    align-items: center;
+    display: flex;
+align-items: center;
+height: 400px;
+justify-content:center;
+text-align: center;
+flex-direction: column;
 }
 

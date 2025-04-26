@@ -1,0 +1,103 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.imgBox{
+background-image: url(./images/vidio.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 90vh;
+width: 90%;
+
+}
+.vidioSection{
+    height:100vh;
+    border: 1px solid black;
+    padding-top: 50px;
+}
+.vidioContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 60px;
+ 
+}
+.greencolor{
+    color: darkgreen;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.vidioList{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.btn{
+    
+    padding: 10px 30px;
+    background-color: darkgreen;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: rgb(47, 112, 47);
+    color: white;
+}
+.vidioContent p{
+    line-height: 30px;
+    padding: 0px 30px;
+}
+.blog-content img{
+    width: 70%;
+    
+}
+.icon-img img{
+    width: 30px;
+    height: 25px;
+    margin-top: 20px;
+    
+}
+.icon-img{
+   
+    display: flex; 
+}
+.textgrey{
+    color: rgb(88, 88, 88);
+    font-size: 40px;
+    font-weight: 200px;
+    margin-top: 40px;
+}
+.tblack{
+    color: rgb(29, 29, 29);
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.grey{
+    color: darkgreen;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.blog {
+    height: 700px;
+}
+.blogIcons{
+    align-items: center;
+    display: inline-block;
+}
+.ReadMore{
+    color: gray;
+    text-decoration: none;
+    
+    padding: 10px 20px;
+    margin-top: 60px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.ReadMore:hover{
+    color: darkgreen;
+}
+
+
+
+
