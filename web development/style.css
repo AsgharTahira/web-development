@@ -1,6 +1,7 @@
 *{
     padding: 0%;
     margin: 0%;
+    box-sizing: border-box;
 }
 .imgBox{
 background-image: url(./images/vidio.jpg);
@@ -60,7 +61,8 @@ width: 90%;
 }
 .icon-img{
    
-    display: flex; 
+    display: flex;
+    align-items: center; 
 }
 .textgrey{
     color: rgb(88, 88, 88);
@@ -96,6 +98,19 @@ width: 90%;
 }
 .ReadMore:hover{
     color: darkgreen;
+}
+
+.blog-content{
+    overflow: hidden
+}
+
+.blog-content:hover img{
+    transform: scale(1.1);
+    transition: .5s ease;
+}
+
+.HoverExm:hover p{
+    font-size: 30px;
 }
 
 
